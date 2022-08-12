@@ -1,0 +1,15 @@
+.MarketIdPairSymbolCard {
+  border: 1px solid #1890ff;
+  border-radius: 16px;
+
+  .Symbol {
+    font-size: 16px;
+  }
+  .LastPrice {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .Volume {
+    margin-top: 4px;
+  }
+}
