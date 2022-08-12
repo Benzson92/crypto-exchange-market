@@ -1,0 +1,17 @@
+.MarketIdViewPage {
+  padding: 24px;
+
+  .PairSymbolList {
+    display: flex;
+    flex-direction: column;
+  }
+  .PairSymbolButtonContainer {
+    margin: 8px 0;
+  }
+  .PairSymbolButton {
+    width: 100%;
+  }
+  .PairSymbolSkeletonCard {
+    border-radius: 16px;
+  }
+}
